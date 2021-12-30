@@ -1,7 +1,7 @@
 version: '2.3'
 services:
   php-apache-environment:
-    image: riris/Uas
+    image: erlitadesycahyuni/uassister2
     container_name: php-apache
     volumes:
       - ./php/src:/var/www/html/
