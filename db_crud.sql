@@ -40,9 +40,9 @@ CREATE TABLE `tb_siswa` (
 --
 
 INSERT INTO `tb_siswa` (`id`, `nis`, `nama`, `kelas`) VALUES
-(1, 193171, 'Falya Charisma', 'MI-3C'),
-(2, 11018, 'Dinda', 'MI-3C'),
-(4, 193172, 'Lalalisa', 'MI-3C');
+(1, 193171, 'Erlita Desy C', 'MI-3A'),
+(2, 11018, 'Natasya Putri', 'MI-3B'),
+(4, 193172, 'Hanifah Putri', 'MI-3C');
 
 --
 -- Indexes for dumped tables
